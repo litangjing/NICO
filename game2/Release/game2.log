@@ -1,0 +1,7 @@
+﻿  again.cpp
+h:\nico\game2\again.cpp(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  正在生成代码
+  All 76 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  game2.vcxproj -> H:\NICO\Release\game2.exe
